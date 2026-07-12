@@ -64,7 +64,7 @@ function App() {
 
   return (
     <div className="card" style={{ textAlign: "center" }}>
-      <h1>Guess The Word 🎯</h1>
+      <h1>Guess The Word - Container Edition 🎯</h1>
 
       <p>Score: {score}</p>
 
